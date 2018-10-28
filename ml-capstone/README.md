@@ -22,13 +22,13 @@ Please maintain current directory structure for code execution.
 > __Python source code__ --> /ml-capstone/
 
 ### Software Requirements
-Python version 3.6
-XGBoost version 0.72
-LightGBM version 2.2.1
-Scipy version 1.1.0
-Numpy version 1.14.3
-Pandas version 0.23.0
-Jupyter notebook version 5.5.0
+Python version 3.6<br>
+XGBoost version 0.72<br>
+LightGBM version 2.2.1<br>
+Scipy version 1.1.0<br>
+Numpy version 1.14.3<br>
+Pandas version 0.23.0<br>
+Jupyter notebook version 5.5.0<br>
 
 ### Running the software
 To run the software, nagivate to the top level of the project directory and type
