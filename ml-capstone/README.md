@@ -33,3 +33,7 @@ Jupyter notebook version 5.5.0<br>
 ### Running the software
 To run the software, nagivate to the top level of the project directory and type<br>
 `jupyter notebook energy_price_prediction.ipynb`
+
+### Licenses
+Date obtained from <https://www.smard.de> is licensed under a __Creative Commons Attribution 4.0 Intenational License__<br>
+Link : https://www.smard.de/en/datennutzung/5808
