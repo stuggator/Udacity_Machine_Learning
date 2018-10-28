@@ -18,5 +18,5 @@ available in the csv format.
 ### Directory structure
 
 Please maintain current directory structure for code execution.
-> CSV Data --> /ml-capstone/datasets/2015-2017/
+> CSV Data --> /ml-capstone/datasets/2015-2017/<br>
 > Python source code --> /ml-capstone/
