@@ -31,5 +31,5 @@ Pandas version 0.23.0<br>
 Jupyter notebook version 5.5.0<br>
 
 ### Running the software
-To run the software, nagivate to the top level of the project directory and type
-'jupyter notebook energy_price_prediction.ipynb'
+To run the software, nagivate to the top level of the project directory and type<br>
+`jupyter notebook energy_price_prediction.ipynb`
