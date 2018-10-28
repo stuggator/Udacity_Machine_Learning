@@ -20,3 +20,16 @@ available in the csv format.
 Please maintain current directory structure for code execution.
 > __CSV Data__ --> /ml-capstone/datasets/2015-2017/<br>
 > __Python source code__ --> /ml-capstone/
+
+### Software Requirements
+Python version 3.6
+XGBoost version 0.72
+LightGBM version 2.2.1
+Scipy version 1.1.0
+Numpy version 1.14.3
+Pandas version 0.23.0
+Jupyter notebook version 5.5.0
+
+### Running the software
+To run the software, nagivate to the top level of the project directory and type
+'jupyter notebook energy_price_prediction.ipynb'
